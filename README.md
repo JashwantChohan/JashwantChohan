@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="assets/banner.png" width="700" />
+</p>
+
+
 # Hi, I'm Jashwant 👋
 
 I'm a **MERN Stack Developer** who enjoys building full-stack web applications and learning by doing.
