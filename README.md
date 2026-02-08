@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Jashwant 👋
 
-<!--
-**JashwantChohan/JashwantChohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **MERN Stack Developer** who enjoys building full-stack web applications and learning by doing.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React, HTML, CSS, JavaScript, React, React Redux 
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Postman
+
+---
+
+## 🏗️ Projects
+### 🏥 Dr Plaza (Hospital Management System)
+- Full-stack MERN application
+- Appointment booking & management
+- Role-based access (Admin / Doctor / User)
+
+🔗 Frontend: https://prescripto-zeta-two.vercel.app/
+🔗 Backend: In progress 🚧 (currently in development)
+
+
+---
+
+## 📌 Currently Learning
+- Advanced React patterns
+- Backend best practices
+- Clean code & project structure
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/jashwant-chohan-622054258/ 
+- GitHub: https://github.com/yourusername
