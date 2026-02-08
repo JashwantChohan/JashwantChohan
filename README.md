@@ -2,44 +2,40 @@
   <img src="assets/cover picture.png" />
 </p>
 
-
 # Hi, I'm Jashwant 👋
 
 I'm a **MERN Stack Developer** who enjoys building full-stack web applications and learning by doing.
 
 ---
 
-## 🚀 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, React, React Redux \
+🙋‍♂️ About Me
+- 🎓 Undergraduate in Software Engineering
+- 🌱 I’m currently learning more about MERN stack and how to build complete web applications  
+- 👯 I’m looking to work with others on open-source projects and real apps
+- 📫 How to reach me: jchohan142@gmail.com
+- ⚡ Fun fact: I love building web apps and I’m a quick learner
+
+🚀 Technologies I Know
+- **Frontend:** HTML, CSS, JavaScript, React, Redux, Next.js
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, GitHub, Postman
+- **Database:** MongoDB, Firebase
+- **Styling:** Tailwind CSS, Material-UI, Bootstrap
+- **Project Management:** Git, GitHub
+- **Deployment:** Vercel, Netlify
 
 ---
 
-## 🏗️ Projects
-### 🏥 Dr Plaza (Hospital Management System)
-- Full-stack MERN application
-- Appointment booking and management system
-- Role-based access (Admin / Doctor / User)
+📌 Featured Projects
 
-🔗 Frontend: https://prescripto-zeta-two.vercel.app/
-🔗 Backend: In progress 🚧 (currently in development)
-
-
----
-
-## 📌 Currently Learning
-- Advanced React patterns
-- Backend best practices
-- Clean code & project structure
-
----
-
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/jashwant-chohan-622054258/ 
-- GitHub: https://github.com/JashwantChohan
+- 🏥 **Dr Plaza** – Full-stack MERN Hospital Management System
+- 💻 **Portfolio Website** – Built with React & Tailwind CSS
+- 🎬 **YouTube Clone** – React app replicating YouTube features, including video upload, search, and playback
 
 ---
 
 💡 Learning in public & improving every day
+
+---
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/jashwant-chohan-622054258/)
+- [GitHub](https://github.com/jashwant-chohan)
