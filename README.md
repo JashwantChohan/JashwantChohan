@@ -5,7 +5,7 @@ I'm a **MERN Stack Developer** who enjoys building full-stack web applications a
 ---
 
 ## 🚀 Tech Stack
-- **Frontend:** React, HTML, CSS, JavaScript, React, React Redux 
+- **Frontend:** React, HTML, CSS, JavaScript, React, React Redux \
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, GitHub, Postman
@@ -15,7 +15,7 @@ I'm a **MERN Stack Developer** who enjoys building full-stack web applications a
 ## 🏗️ Projects
 ### 🏥 Dr Plaza (Hospital Management System)
 - Full-stack MERN application
-- Appointment booking & management
+- Appointment booking and management system
 - Role-based access (Admin / Doctor / User)
 
 🔗 Frontend: https://prescripto-zeta-two.vercel.app/
@@ -33,4 +33,8 @@ I'm a **MERN Stack Developer** who enjoys building full-stack web applications a
 
 ## 📫 Connect with Me
 - LinkedIn: https://www.linkedin.com/in/jashwant-chohan-622054258/ 
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/JashwantChohan
+
+---
+
+💡 Learning in public & improving every day
