@@ -38,4 +38,3 @@ I'm a **MERN Stack Developer** who enjoys building full-stack web applications a
 ---
 Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/jashwant-chohan-622054258/)
-- [GitHub](https://github.com/jashwant-chohan)
